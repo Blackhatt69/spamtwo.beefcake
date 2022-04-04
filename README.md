@@ -8,15 +8,14 @@ A **free** and open-source Pokétwo Autocatcher / Spammer, created with the goal
 
 ### Features
 The bot has the following features:
-- ⚙️ Easy Setup (simply run a script and enter the correct information, no 'coding' needed)
-- ⬆️ Auto-levelling (Level up all your duel Pokémon to level 100 **overnight**!)
-- ✨ Get notified when and if you've caught a Pokémon, and also if another event occurs
-    - See when a Shiny/Legendary/Ultra Beast/Mythical Pokémon is caught, and which one it is!
-- 💲 **Completely free/Trustworthy** and open-source (you can see the code as it is)
-
-- 📜 Support for all Pokémon from generation I to generation VIII, including all Alolan and Galarian Pokémon
-- 🏎️ The autocatcher can even handle Incense!
-- 🔍 Pokétwo-Resistant - the autocatcher sends a random series of numbers to enhance undetectability
+- Easy Setup (simply run a script and enter the correct information, no 'coding' needed)
+- Auto-levelling (Level up all your duel Pokémon to level 100 **overnight**!)
+- Get notified when and if you've caught a Pokémon, and also if another event occurs
+- See when a Shiny/Legendary/Ultra Beast/Mythical Pokémon is caught, and which one it is!
+- **Completely free/Trustworthy** and open-source (you can see the code as it is)
+- Support for all Pokémon from generation I to generation VIII, including all Alolan and Galarian Pokémon
+- The autocatcher can even handle Incense!
+- Pokétwo-Resistant - the autocatcher sends a random series of numbers to enhance undetectability
 
 ### Getting Started:
 To start up the bot on replit, go to the 'Secrets' tab on replit (the lock icon) and in the 'key' area, write `user_token`, and then type in your discord account token in the 'value' section. <br>
